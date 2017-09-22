@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+		body
+ 				{
+ 					background: url(TanPaper.gif);
+ 					
+ 				}
+ 			h1
+ 				{
+ 					title: "Total skills cap set to 800.  .";
+ 					text-shadow: 2px 2px 5px red, 1px 1px 4px black;
+ 					text-align:center;
+ 				}
+ 			h3
+ 				{
+ 				 	text-shadow: 1px 1px 3px black;
+ 				 	text-align:center;
+ 				}
