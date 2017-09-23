@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.xmi
+*.log
+*.index
+*.log
+*.version
+*.resources
+*.prefs
